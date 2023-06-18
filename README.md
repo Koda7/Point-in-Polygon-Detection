@@ -7,5 +7,5 @@ seconds utilizing hierarchical indices
 - The final report for the project is also attached for further details
 
 ## How to Run Code 
-- Run 'python3 inside.py' to get the results for INSIDE query on the testing data
-- Run 'python3 within.py' to get the results for 'within n' query on the testing data
+- Run `python3 inside.py` to get the results for INSIDE query on the testing data
+- Run `python3 within.py` to get the results for 'within n' query on the testing data
