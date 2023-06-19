@@ -2,7 +2,7 @@
 ## Description 
 - The codes provided are an optimized solution to the point-polygon query program mentioned by the **ACM SIGSPATIAL CUP
 2013**, guaranteeing an absolute accuracy rate of 100%
-- The efficient algorithm that accelerates **’point-in-polygon’** and **’within n’** relationship queries by at 5
+- The efficient algorithm that accelerates **’inside’** and **’within n’** relationship queries by at 5
 seconds utilizing hierarchical indices
 - The final report for the project is also attached for further details
 
